@@ -1,4 +1,12 @@
-# 学生管理系统项目结构 
-/src - 源代码目录 
-/docs - 文档目录 
-/tests - 测试目录 
+# Project Structure 
+ 
+/src - Source code directory 
+  main.py - Main program 
+  student.py - Student class (to be created) 
+ 
+/docs - Documentation 
+  README.md - Project introduction 
+  TUTORIAL.md - Git tutorial 
+ 
+/tests - Test files 
+  test_student.py - Unit tests 
